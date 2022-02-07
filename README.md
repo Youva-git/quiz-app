@@ -8,6 +8,8 @@ La question ainsi que les réponses proposées pourront contenir :
 mais éventuellement quelques éléments de mise en forme (gras, italique),  
 * du contenu riche limité aux formules mathématiques et aux dessins vectoriels simples.  
   
+## Démo:  
+  
 <img src="https://github.com/Youva-git/demos/blob/master/quiz.gif">  
   
 ## Déploiement de l’application:  
