@@ -21,5 +21,5 @@ mais éventuellement quelques éléments de mise en forme (gras, italique),
 4. Redémarrez le serveur apache2.  
   
 5. Configurez les constantes des DB dans le fichier /QUIZZ/app/body/database.php pour la base de données.  
-(Vous trouverez le fichier testprojetlw1.sql qui contient le modèle de la base de données utiliser dans l’archive.) 
+(Vous trouverez le fichier projet.sql qui contient le modèle de la base de données utiliser dans l’archive.) 
     
